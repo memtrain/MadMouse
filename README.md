@@ -1,4 +1,4 @@
-# MadMouse![](https://img.shields.io/badge/Rates-5_stars-orange) ![](https://img.shields.io/badge/Only_personal_use_&__Non--profit-330033) ![GitHub Release]([https://img.shields.io/github/v/release/memtrain/MadMouse](https://github.com/memtrain/MadMouse/tree/main)) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/memtrain/MadMouse/total)
+# MadMouse![](https://img.shields.io/badge/Rates-5_stars-orange) ![](https://img.shields.io/badge/Only_personal_use_&__Non--profit-330033) ![GitHub Release](https://img.shields.io/github/v/release/memtrain/MadMouse) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/memtrain/MadMouse/total)
 
 滑鼠自動點擊器
 使用場景:
